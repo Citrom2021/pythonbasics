@@ -1,0 +1,10 @@
+if: feltétel			#ha igaz
+	kód végrehejtás		#lefut
+	
+elif: feltétel
+	kód végrehajtás		#ha az if nem volt igaz , azaz az hamis
+
+elif: n db
+
+else: 					#ha az if nem volt igaz, se az elif:
+	kód végrehajtás

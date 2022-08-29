@@ -1,0 +1,34 @@
+növekményes
+i változó növelve van addig fut a kód amíg el nem éri a feltételtértékét
+
+for(int i = 0; i<10; i++)
+	kód végrehajtás
+
+for feltétel
+	utasítások
+pythonos:
+
+for i in range ( 1,10 )
+	utasítások
+
+pozíció
+	 1  2  3  4
+	 
+ 	[2, 3, 4, 6]
+	 0  1  2  3
+index
+
+
+
+feltételes
+
+while feltétel
+	utasítások
+
+number = 0
+while i != 10
+	utasítások
+	i++ x i += 1
+
+i = i + 1
+i += 1
